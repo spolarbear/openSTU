@@ -1,0 +1,2 @@
+# openSTU
+# copyright
